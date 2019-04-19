@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1514144182 source:c:\development\cb\win32_gui_test\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1094051620 c:\development\cb\win32_gui_test\resource.h
+
+1555489576 source:c:\development\cb\win32_gui_test\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1555496887 source:c:\development\cb\win32_gui_test\stdafx.cpp
+	"stdafx.h"
+
+1555496867 c:\development\cb\win32_gui_test\stdafx.h
+	<windows.h>
+	<stdlib.h>
+	<malloc.h>
+	<memory.h>
+	<tchar.h>
+	<stdio.h>
+	<commctrl.h>
+	<windows.h>
+
+1555519128 source:c:\development\cb\win32_gui_test\testofwin32dialog.rc
+	"resource.h"
+	"windows.h"
+
+1555681967 source:c:\development\cb\win32_gui_test\testofwin32dialog.cpp
+	"stdafx.h"
+	<commctrl.h>
+	<vector>
+	<string>
+	<dirent.h>
+	<iostream>
+	"testOfWin32Dialog.h"
+
+1094051620 c:\development\cb\win32_gui_test\testofwin32dialog.h
+	"resource.h"
+
